@@ -1,0 +1,11 @@
+{
+  "error": [
+    {
+      "type": "error",
+      "title": "SimpleStorage: [company]",
+      "detail": "Not Found [company]",
+      "status": "400",
+      "instance": "http://company-atk.herokuapp.com/company/"
+    }
+  ]
+}
